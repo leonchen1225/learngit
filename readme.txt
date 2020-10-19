@@ -9,4 +9,4 @@ modified 20201019
 
 backup 20201019
 
-Git tracks changes
+Git tracks changes of files
