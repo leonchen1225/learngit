@@ -1,0 +1,4 @@
+
+git remote add origin git@github.com:leonchen1225/learngit.git
+
+git push -u origin master
