@@ -12,3 +12,5 @@ master add inf
 master add inf1
 
 master add inf2
+
+修复issue-101
