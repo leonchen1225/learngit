@@ -21,5 +21,5 @@ Creating a new branch is quick and simple.
 
 master add
 
-
+conflict:feature1 add test
 conflict:master add test
