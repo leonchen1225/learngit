@@ -25,3 +25,5 @@ conflict:feature1 add test
 conflict:master add test
 
 feature1 add inf1
+
+feature1 add inf2
