@@ -20,3 +20,5 @@ git 通过在一套代码上维护不同的指向标识，所以创建分支及�
 Creating a new branch is quick and simple.
 
 master add
+
+conflict:feature1 add test
