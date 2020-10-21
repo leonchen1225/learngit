@@ -23,3 +23,5 @@ master add
 
 conflict:feature1 add test
 conflict:master add test
+
+feature1 add inf1
