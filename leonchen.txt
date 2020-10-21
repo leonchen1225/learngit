@@ -6,3 +6,5 @@ git push -u origin master
 modified for Github
 
 deleted for Github
+
+master add inf
