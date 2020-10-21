@@ -37,3 +37,4 @@ feature1 add inf5
 dev add inf1
 
 开发功能1
+开发功能2
